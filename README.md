@@ -66,7 +66,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <ul>
   <blockquote>
-<i>If you're a close friend.</i>
+<i>If you're a close friend...</i>
   </blockquote>
 <li>Boss</li>
 <li><i>Founder</i></li>
@@ -82,10 +82,11 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <br>
 
 <ul>
-<li><i>[Interest]</i></li>
-<li><i>[Interest]</i></li>
-<li><i>[Interest]</i></li>
-<li><i>[Interest]</i></li>
+<li><i>Gaming</i></li>
+<li><i>Writing</i></li>
+<li><i>Roleplaying</i></li>
+<li><i>Code-Solving</i></li>
+<li><i>And many more...</i></li>
 </ul>
 
 </details>
@@ -100,16 +101,16 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <p><b>MAIN</b></p>
 
 <ul>
-<li><i>[Fandom]</i></li>
-<li><i>[Fandom]</i></li>
-<li><i>[Fandom]</i></li>
+<li><i>Genshin Impact</i></li>
+<li><i>Pokémon + Poképastas</i></li>
+<li><i>Deepwoken</i></li>
 </ul>
 
 <p><b>OTHER</b></p>
 
 <ul>
-<li><i>[Fandom]</i></li>
-<li><i>[Fandom]</i></li>
+<li><i>Project Moon</i></li>
+<li><i>And many more...</i></li>
 </ul>
 
 </details>
@@ -122,9 +123,18 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <br>
 
 <ul>
-<li><i>[WIP]</i></li>
-<li><i>[WIP]</i></li>
-<li><i>[WIP]</i></li>
+  <blockquote>
+<i>No particular order...</i>
+  </blockquote>
+<li><i>Hohenheim (Limbus Company)</i></li>
+<li><i>Rien (Limbus Company)</i></li>
+<li><i>Marton (Limbus Company)</i></li>
+<li><i>Flins (Genshin Impact)</i></li>
+<li><i>Wanderer (Genshin Impact)</i></li>
+<li><i>Kaveh (Genshin Impact)</i></li>
+<li><i>Zinnia (Pokémon)</i></li>
+<li><i>Calem (Pokémon)</i></li>
+<li><i>N (Pokémon)</i></li>
 </ul>
 
 </details>
@@ -139,13 +149,26 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <p><b>BOUNDARIES</b></p>
 
 <p>
-<i>[Boundaries WIP]</i>
-</p>
+<li><i>I would much prefer if you call me by the names I prefer. I WOULD most prefer Flins, but I'll answer to any of the following that you call me by.</i></li>
+
+<br>
+
+<li><i>I may be overly blunt but I wouldn't want that to be talked about that much, it's something I'm trying to work on by myself.</i></li>
+
+<br>
+
+<li><i>Please PLEASE do not call me Boss or Founder unless I explicitly say you can. It's kind of uncomfortable.</i></li>
+
+<br>
+
+<li><i>You can talk about Drama with me, I'm okay with it. Unless it involves anything revolving around doxxing, if so please ask beforehand.</i></li>
+
+<br>
 
 <p><b>DNI</b></p>
 
 <p>
-<i>[DNI list WIP]</i>
+<li><i>Basic DNI list, don't be a weirdo, it shouldn't be that hard.</i></li>
 </p>
 
 </details>
@@ -162,10 +185,10 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 </blockquote>
 
 <ul>
-<li><i>[Artist]</i></li>
-<li><i>[Artist]</i></li>
-<li><i>[Artist]</i></li>
-<li><i>[Favorite song]</i></li>
+<li><i>Cavetown</i></li>
+<li><i>FLAVOR FOLEY</i></li>
+<li><i>Naktigonis</i></li>
+<li><i>The Box - 11vein</i></li>
 </ul>
 
 </details>
@@ -192,7 +215,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <br>
 
 <p>
-<i>[WIP]</i>
+<i>Thank you so much for reading! If you ever have any questions about my github you can always whisper me the questions that you have. There's no dumb questions, to an extent.</i>
 </p>
 
 <br>
@@ -213,5 +236,9 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <br>
 
 <i>Beware the creatures of the night.</i>
+
+<br>
+
+<img src="./flins-genshin.gif" width="250">
 
 </div>
