@@ -112,13 +112,13 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 <ul>
 <li><i>Genshin Impact</i></li>
 <li><i>Pokémon + Poképastas</i></li>
-<li><i>Deepwoken</i></li>
+<li><i>Unfortunately Deepwoken</i></li>
 </ul>
 
 <p><b>OTHER</b></p>
 
 <ul>
-<li><i>Project Moon</i></li>
+<li><i>Fisch</i></li>
 <li><i>And many more...</i></li>
 </ul>
 
