@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=oathboundlight&amp;label=Visitors&amp;color=1f3a6e&amp;style=flat" alt="Visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oathboundlight&amp;left_color=%231f3a6e&amp;right_color=%231f3a6e" alt="Visitors">
 <img src="https://img.shields.io/badge/status-endlessly%20searching%20for%20purpose-1f3a6e" alt="Status">
 </p>
 
