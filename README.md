@@ -122,9 +122,9 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <br>
 
 <ul>
-<li><i>[Character]</i></li>
-<li><i>[Character]</i></li>
-<li><i>[Character]</i></li>
+<li><i>[WIP]</i></li>
+<li><i>[WIP]</i></li>
+<li><i>[WIP]</i></li>
 </ul>
 
 </details>
@@ -139,13 +139,13 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <p><b>BOUNDARIES</b></p>
 
 <p>
-<i>[Your boundaries]</i>
+<i>[Boundaries WIP]</i>
 </p>
 
 <p><b>DNI</b></p>
 
 <p>
-<i>[Your DNI list]</i>
+<i>[DNI list WIP]</i>
 </p>
 
 </details>
@@ -181,8 +181,10 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <i>"People ought not be so frightened of ghosts. They are merely talking shadows, chattering away endlessly about their past affairs."</i>
 </blockquote>
 
+<br>
+
 <p>
-<i>[Random information, current interests, favorite characters, etc.]</i>
+<i>[WIP]</i>
 </p>
 
 <br>
@@ -203,6 +205,6 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <br>
 
-<i>The lamp stays lit.</i>
+<i>Beware the creatures of the night.</i>
 
 </div>
