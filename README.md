@@ -6,11 +6,13 @@
 
 <img src="./flins-genshin-sticker.gif" width="180">
 
-<p><i>We must've met before, or you're either stalking me. Understandable, I suppose.</i></p>
+<p>
+<i>We must've met before, or you're either stalking me. Understandable, I suppose.</i>
+</p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=oathboundlight&label=Visitors&color=1f3a6e&style=flat">
-<img src="https://img.shields.io/badge/status-endlessly%20searching%20for%20purpose-1f3a6e">
+<img src="https://komarev.com/ghpvc/?username=oathboundlight&amp;label=Visitors&amp;color=1f3a6e&amp;style=flat" alt="Visitors">
+<img src="https://img.shields.io/badge/status-endlessly%20searching%20for%20purpose-1f3a6e" alt="Status">
 </p>
 
 </div>
@@ -27,7 +29,7 @@
 </blockquote>
 
 <p>
-Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to read.
+Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to read.
 </p>
 
 <p>
@@ -35,12 +37,17 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 </p>
 
 <ul>
-<li> <i> RP & C+H is welcome with close friends. <i> </li>
-<li> It's okay to not like me, I don't like myself either. </li>
-<li> If I like a character I will end up usually acting as them. </li>
-<li> I yap if I like you, but I can also be a great listener whenever needed. </li>
-<li> I'm not in that many fandoms, but if you want to talk about yours go right ahead! </li>
-<li> I have a very VERY low social battery and go silent on random intervals at time, it's not you, it's me. </li>
+<li><i>RP &amp; C+H is welcome with close friends.</i></li>
+
+<li>It's okay to not like me, I don't like myself either.</li>
+
+<li>If I like a character, I will usually end up acting as them.</li>
+
+<li>I yap if I like you, but I can also be a great listener whenever needed.</li>
+
+<li>I'm not in that many fandoms, but if you want to talk about yours, go right ahead!</li>
+
+<li>I have a very VERY low social battery and go silent at random intervals. It's not you, it's me.</li>
 </ul>
 
 </details>
@@ -52,10 +59,11 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <br>
 
-<ul>
-  <blockquote>
+<blockquote>
 <i>From most preferred.</i>
-  </blockquote>
+</blockquote>
+
+<ul>
 <li>Flins</li>
 <li><i>Hohenheim + Hohen</i></li>
 <li><i>Rien</i></li>
@@ -64,10 +72,11 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <br>
 
-<ul>
-  <blockquote>
+<blockquote>
 <i>If you're a close friend...</i>
-  </blockquote>
+</blockquote>
+
+<ul>
 <li>Boss</li>
 <li><i>Founder</i></li>
 </ul>
@@ -122,10 +131,11 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <br>
 
-<ul>
-  <blockquote>
+<blockquote>
 <i>No particular order...</i>
-  </blockquote>
+</blockquote>
+
+<ul>
 <li><i>Hohenheim (Limbus Company)</i></li>
 <li><i>Rien (Limbus Company)</i></li>
 <li><i>Marton (Limbus Company)</i></li>
@@ -148,35 +158,48 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <p><b>BOUNDARIES</b></p>
 
-<p>
-<li><i>I would much prefer if you call me by the names I prefer. I WOULD most prefer Flins, but I'll answer to any of the following that you call me by.</i></li>
+<ul>
+
+<li>
+<i>I would much prefer if you call me by the names I prefer. I WOULD most prefer Flins, but I'll answer to any of the following that you call me by.</i>
+</li>
 
 <br>
 
-<li><i>I may be overly blunt but I wouldn't want that to be talked about that much, it's something I'm trying to work on by myself.</i></li>
+<li>
+<i>I may be overly blunt, but I wouldn't want that to be talked about that much. It's something I'm trying to work on by myself.</i>
+</li>
 
 <br>
 
-<li><i>Please PLEASE do not call me Boss or Founder unless I explicitly say you can. It's kind of uncomfortable.</i></li>
+<li>
+<i>Please PLEASE do not call me Boss or Founder unless I explicitly say you can. It's kind of uncomfortable.</i>
+</li>
 
 <br>
 
-<li><i>You can talk about Drama with me, I'm okay with it. Unless it involves anything revolving around doxxing, if so please ask beforehand.</i></li>
+<li>
+<i>You can talk about drama with me, I'm okay with it. Unless it involves anything revolving around doxxing, if so please ask beforehand.</i>
+</li>
 
-<br>
+</ul>
 
 <p><b>DNI</b></p>
 
-<p>
-<li><i>Basic DNI list, don't be a weirdo, it shouldn't be that hard.</i></li>
-</p>
+<ul>
+
+<li>
+<i>Basic DNI list. Don't be a weirdo, it shouldn't be that hard.</i>
+</li>
+
+</ul>
 
 </details>
 
 <br>
 
 <details>
-<summary>MUSIC</summary>
+<summary>FAVOURITE ARTISTS / SONGS</summary>
 
 <br>
 
@@ -185,9 +208,9 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 </blockquote>
 
 <ul>
-<li><i>Cavetown</i></li>
-<li><i>FLAVOR FOLEY</i></li>
-<li><i>Naktigonis</i></li>
+<li><i>Meteor Shower + This is Home - Cavetown</i></li>
+<li><i>Weathergirl + Ego Renegade Boy - FLAVOR FOLEY</i></li>
+<li><i>Sin Smelted Scoriae + The Windsingers Dance - Naktigonis</i></li>
 <li><i>The Box - 11vein</i></li>
 </ul>
 
@@ -215,7 +238,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 <br>
 
 <p>
-<i>Thank you so much for reading! If you ever have any questions about my github you can always whisper me the questions that you have. There's no dumb questions, to an extent.</i>
+<i>Thank you so much for reading! If you ever have any questions about my GitHub, you can always whisper me the questions that you have. There's no dumb questions, to an extent.</i>
 </p>
 
 <br>
@@ -225,6 +248,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 </blockquote>
 
 </details>
+
 <hr>
 
 <div align="center">
