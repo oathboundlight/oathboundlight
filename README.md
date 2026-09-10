@@ -47,7 +47,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 
 <li>I'm not in that many fandoms, but if you want to talk about yours, go right ahead!</li>
 
-<li>I have a very VERY low social battery and go silent at random intervals. It's not you, it's me.</li>
+<li><b>I have a very VERY low social battery and go silent at random intervals. It's not you, it's me.</b></li>
 </ul>
 
 </details>
@@ -65,9 +65,9 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 
 <ul>
 <li>Flins</li>
-<li><i>Hohenheim + Hohen</i></li>
-<li><i>Rien</i></li>
-<li><i>Duke</i></li>
+<li>Hohenheim + Hohen</li>
+<li>Rien</li>
+<li>Duke</li>
 </ul>
 
 <br>
@@ -78,7 +78,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 
 <ul>
 <li>Boss</li>
-<li><i>Founder</i></li>
+<li>Founder</li>
 </ul>
 
 </details>
