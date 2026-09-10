@@ -5,6 +5,7 @@
 ### *Lightkeeper of the Final Night Cemetery*
 
 *One lantern left burning, where seven or eight used to stand watch.*
+*Surely you discovered me by my Flins pony on PT, yes? Well, in any case, it's lovely to meet you.*
 
 [Visitors](https://komarev.com/ghpvc/?username=oathboundlight&label=Visitors&color=1f3a6e&style=flat)
 [Status](https://img.shields.io/badge/status-endlessly%20searching%20for%20purpose-1f3a6e)
@@ -18,14 +19,13 @@
 > *Ah. You've arrived.*
 > *Pleased to meet you, may we get along well.*
 
-Hi, I'm **[your name / alias here]** — welcome to the graveyard by the lighthouse.
+Hi, I have many names which you will find down below — welcome to the graveyard by the lighthouse.
 
 Cold and quiet on the surface, but courteous underneath — the lantern's blue-fire glow is warmer up close than it looks from a distance. Fond of a dry joke, a well-told story, and keeping watch long after everyone else has gone home.
 
-🌙 Night owl by nature — the quiet hours are when the stories get told.
+Night owl by nature — the quiet hours are when the stories get told.
 
-* 🏮 *[a line or two about who you are — student / artist / dev / creative, whatever fits]*
-* 🕰️ Currently: *[what you're up to lately]*
+* 🏮 *You can find me anywhere within PT, I'm mostly in the 18+ and Safe Server. Either at the Docks & The Bakery.*
 * ✒️ I go by: **oathboundlight**, or *[other nicknames you'd like listed]*
 * 🌒 Pronouns: *[optional]*
 
