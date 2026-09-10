@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=oathboundlight&amp;left_color=%231f3a6e&amp;right_color=%231f3a6e" alt="Visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oathboundlight&amp;left_text=Visitors&amp;left_color=%23595959&amp;right_color=%231f3a6e" alt="Visitors">
 <img src="https://img.shields.io/badge/status-endlessly%20searching%20for%20purpose-1f3a6e" alt="Status">
 </p>
 
