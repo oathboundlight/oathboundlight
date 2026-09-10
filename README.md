@@ -2,7 +2,7 @@
 
 <h1>🕯️oathboundlight</h1>
 
-<h3><i>Lightkeeper of the Final Night Cemetery</i></h3>
+<h3><i>Shadowy Lights, Stranger Wights</i></h3>
 
 <img src="./flins-genshin-sticker.gif" width="180">
 
