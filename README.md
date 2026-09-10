@@ -177,6 +177,14 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 
 <br>
 
+<div align="center">
+
+<img src="./genshin-impact-genshin-impact-flins.gif" width="470">
+
+</div>
+
+<br>
+
 <blockquote>
 <i>"People ought not be so frightened of ghosts. They are merely talking shadows, chattering away endlessly about their past affairs."</i>
 </blockquote>
@@ -194,7 +202,6 @@ Hi, I'm <b>Hohenheim or Flins</b> — Welcome to my profile. Please feel free to
 </blockquote>
 
 </details>
-
 <hr>
 
 <div align="center">
