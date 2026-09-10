@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>oathboundlight</h1>
+<h1>🕯️oathboundlight</h1>
 
 <h3><i>Lightkeeper of the Final Night Cemetery</i></h3>
 
