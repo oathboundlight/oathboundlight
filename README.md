@@ -37,7 +37,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 </p>
 
 <ul>
-<li><i>RP &amp; C+H is welcome with close friends.</i></li>
+<li><i>RP &amp; C+H is welcome with close friends. However, if I join an RP you can RP with me WHENEVER, I'm open to interaction.</i></li>
 
 <li>It's okay to not like me, I don't like myself either.</li>
 
