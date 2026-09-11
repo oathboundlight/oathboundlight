@@ -212,6 +212,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 <li><i>Weathergirl + Ego Renegade Boy - FLAVOR FOLEY</i></li>
 <li><i>Sin Smelted Scoriae + The Windsingers Dance - Naktigonis</i></li>
 <li><i>The Box - 11vein</i></li>
+<li><i>A lot more, you'll have to ask me!</i></li>
 </ul>
 
 </details>
@@ -239,6 +240,21 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 
 <p>
 <i>Thank you so much for reading! If you ever have any questions about my GitHub, you can always whisper me the questions that you have. There's no dumb questions, to an extent.</i>
+
+<i> Ah, and before I forget. Feel free to check out some of my other friends githubs as well. <i>
+
+[@TangerinePudding](https://github.com/TangerinePudding)
+<li> Soon you'll see in BLACK and WHITE. /lyr </li>
+
+<br>
+
+[@WhentheSUNdreams](https://github.com/WhenTheSUNdreams)
+<li> A song of hope, now you can be free. /lyr </li>
+
+<br>
+
+[@radiant-zero](https://github.com/radiant-zero)
+<li> Blinding, Shining Star /lyr </li>
 </p>
 
 <br>
