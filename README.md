@@ -141,6 +141,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 <li><i>Marton (Limbus Company)</i></li>
 <li><i>Flins (Genshin Impact)</i></li>
 <li><i>Wanderer (Genshin Impact)</i></li>
+<li><i>Mitya (Genshin Impact)</i></li>
 <li><i>Kaveh (Genshin Impact)</i></li>
 <li><i>Zinnia (Pokémon)</i></li>
 <li><i>Calem (Pokémon)</i></li>
