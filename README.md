@@ -29,7 +29,7 @@
 </blockquote>
 
 <p>
-Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to read.
+Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel free to read.
 </p>
 
 <p>
@@ -163,7 +163,7 @@ Hi, I'm <b>Hohenheim or Flins</b> — welcome to my profile. Please feel free to
 <ul>
 
 <li>
-<i>I would much prefer if you call me by the names I prefer. I WOULD most prefer Flins, but I'll answer to any of the following that you call me by.</i>
+<i>I would much prefer if you call me by the names I prefer. I WOULD most prefer the top 3 that I introduce myself as in the introduction, but I'll answer to any of the following that you call me by.</i>
 </li>
 
 <br>
