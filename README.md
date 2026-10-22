@@ -65,8 +65,8 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 
 <ul>
 <li>Flins</li>
-<li>Hohenheim + Hohen</li>
 <li> Mitya </li>
+<li>Hohenheim + Hohen</li>
 <li>Rien</li>
 <li>Duke</li>
 </ul>
