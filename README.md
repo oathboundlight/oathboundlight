@@ -97,6 +97,7 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 <li><i>Writing</i></li>
 <li><i>Roleplaying</i></li>
 <li><i>Code-Solving</i></li>
+<li><i>Researching</i></li>
 <li><i>And many more...</i></li>
 </ul>
 
@@ -139,8 +140,6 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 
 <ul>
 <li><i>Hohenheim (Limbus Company)</i></li>
-<li><i>Rien (Limbus Company)</i></li>
-<li><i>Marton (Limbus Company)</i></li>
 <li><i>Flins (Genshin Impact)</i></li>
 <li><i>Wanderer (Genshin Impact)</i></li>
 <li><i>Mitya (Genshin Impact)</i></li>
